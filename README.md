@@ -25,4 +25,8 @@ A clean low-level base for private overlays and higher-layer anonymity systems.
 
 Please note that the public release of the v1 base version is not a final system, but rather a foundation for developers to build their own network. Any further development of the Crypix Ghost Network will not be public, in order to protect our network.
 
-MIT license - do with it what you want.
+MIT license - do with it what you want. Military use prohibited.
+
+
+Whitepaper & more:
+https://cryptix-network.org/cryptix-ghostgate
