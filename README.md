@@ -1,5 +1,8 @@
 # Cryptix GhostGate Net
 
+<img width="1024" height="1024" alt="ghostgate" src="https://github.com/user-attachments/assets/5346fc2a-d136-445c-a171-88ee6da377b6" />
+
+
 Cryptix GhostGate Net is a stealth, crypto-attested peer mesh network.  
 Nodes join only with cryptographic proof and operate inside encrypted space.
 
